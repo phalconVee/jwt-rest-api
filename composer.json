@@ -1,0 +1,17 @@
+{
+	"description": "A simple jwt rest api",
+	"name": "jwt-rest-api/framework",
+	"type": "personal",
+	"license": "MIT",
+	"require": {
+		"php": ">=7.0.9",
+		"firebase/php-jwt": "^5.0"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}
