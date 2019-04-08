@@ -10,8 +10,8 @@
 $config['protocol']         = 'smtp';
 $config['smtp_host']        = 'smtp.mailtrap.io';
 $config['smtp_port']        = 2525;
-$config['smtp_user']        = 'adf78a4b2ec076';
-$config['smtp_pass']        = '57df7964d43a01';
+$config['smtp_user']        = '';
+$config['smtp_pass']        = '';
 $config['crlf']             = "\r\n";
 $config['newline']          = "\r\n";
 $config['mailtype']         = 'html';
