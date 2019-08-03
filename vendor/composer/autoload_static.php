@@ -25,6 +25,10 @@ class ComposerStaticInit1d60c8dbaed61a392b2f40a92f3593fd
             'Symfony\\Polyfill\\Ctype\\' => 23,
             'Symfony\\Component\\Yaml\\' => 23,
         ),
+        'P' => 
+        array (
+            'PhpParser\\' => 10,
+        ),
         'F' => 
         array (
             'Firebase\\JWT\\' => 13,
@@ -54,6 +58,10 @@ class ComposerStaticInit1d60c8dbaed61a392b2f40a92f3593fd
         'Symfony\\Component\\Yaml\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/yaml',
+        ),
+        'PhpParser\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
         'Firebase\\JWT\\' => 
         array (
